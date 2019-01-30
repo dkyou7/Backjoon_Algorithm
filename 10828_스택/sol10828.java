@@ -1,4 +1,4 @@
-package com.algo;
+package backjoon;
 
 import java.util.EmptyStackException;
 import java.util.NoSuchElementException;
