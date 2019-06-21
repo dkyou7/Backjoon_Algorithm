@@ -3,6 +3,7 @@
 [18028. 스택](https://github.com/dkyou7/Backjoon_Algorithm/tree/master/10828_%EC%8A%A4%ED%83%9D)<br>
 
 [17142. 연구소3](https://github.com/dkyou7/Backjoon_Algorithm/blob/master/17142_%EC%97%B0%EA%B5%AC%EC%86%8C3.cpp)<br>
+[14502. 연구소](https://github.com/dkyou7/Backjoon_Algorithm/blob/master/14502_%EC%97%B0%EA%B5%AC%EC%86%8C.cpp)<br>
 
 ## DP
 [1463. 1로 만들기](https://github.com/dkyou7/Backjoon_Algorithm/tree/master/1463_1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0)<br>
