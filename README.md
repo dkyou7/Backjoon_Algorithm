@@ -1,11 +1,9 @@
 # 백준 알고리즘
 
 [18028. 스택](https://github.com/dkyou7/Backjoon_Algorithm/tree/master/10828_%EC%8A%A4%ED%83%9D)<br>
-
 [17142. 연구소3](https://github.com/dkyou7/Backjoon_Algorithm/blob/master/17142_%EC%97%B0%EA%B5%AC%EC%86%8C3.cpp)<br>
 [14502. 연구소](https://github.com/dkyou7/Backjoon_Algorithm/blob/master/14502_%EC%97%B0%EA%B5%AC%EC%86%8C.cpp)<br>
 [2902. KMP는 왜 KMP일까](https://github.com/dkyou7/Backjoon_Algorithm/blob/master/2902_KMP%EB%8A%94%20%EC%99%9C%20KMP%EC%9D%BC%EA%B9%8C.cpp)<br>
-
 [3190. 뱀]()<br>
 
 
